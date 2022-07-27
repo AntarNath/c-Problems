@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// antart nath
 int reverse(int n){
     int last,ans=0;
     while(n>0){
